@@ -1,0 +1,12 @@
+## Interface: 70000
+## Title: MilkUI
+## version: 2.1
+## Author: ƒ‘≤–≈£@Â»¬Í¿º
+## Notes:  Useful Toolbox.
+## SavedVariables: MilkUI
+## Ref:http://bbs.ngacn.cc/read.php?tid=7678853&_ff=200&_fp=4
+
+MilkUI_lib/MilkUI_dailytool.lua
+MilkUI_lib/MilkUI_enhance.lua
+MilkUI_lib/MilkUI_interface.lua
+MilkUI_lib/MilkUI_garrison.lua
