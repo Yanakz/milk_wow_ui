@@ -22,11 +22,13 @@ http://bbs.ngacn.cc/read.php?tid=7678853&_ff=200&_fp=4
 
 ##MilkUI version 2.1
 updated at 24-07-2016
+
 1. 绿色物品改为自动需求
 
 
 ##MilkUI version 2.0 
 updated 24-07-2016
+
 1. 更新支持WOW7.0
 2. 删除披风与头盔显示/隐藏功能
 3. 修复UTF8-BOW，去除乱码
@@ -35,6 +37,7 @@ updated 24-07-2016
 
 ##MilkUI version 1.0
 01-01-2015
+
 (不需要的功能请打开相应的文件删除对应用能，均已注释)
 1. 自动贩卖破烂          MilkUI_dailytool
 2. 自动修理              MilkUI_dailytool
