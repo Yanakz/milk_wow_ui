@@ -6,13 +6,17 @@ f:SetScript("OnEvent", function()
    for b=0,4 do
       for s=1,GetContainerNumSlots(b) do
          local l = GetContainerItemLink(b, s)
-         if l then
+         if l and string.find(l,"ff9d9d9d") then
+            DEFAULT_CHAT_FRAME:AddMessage("卖出 "..l)
+        --  if l then
             local p = select(11, GetItemInfo(l))*select(2, GetContainerItemInfo(b, s))
-            if select(3, GetItemInfo(l))==0 and p>0 then
-               UseContainerItem(b, s)
-               PickupMerchantItem()
-               c = c+p
-            end
+            -- if select(3, GetItemInfo(l))==0 and p>0 then
+            UseContainerItem(b, s)
+            --    PickupMerchantItem()
+               
+            c = c+p
+
+            -- end
          end
       end
    end
@@ -23,12 +27,17 @@ f:SetScript("OnEvent", function()
 end)
 f:RegisterEvent("MERCHANT_SHOW")
 
+
+
+
+--------------------------------------------------
+
 --自动修理
 local AutoRepair = true
 local g = CreateFrame("Frame")
 g:RegisterEvent("MERCHANT_SHOW")
 g:SetScript("OnEvent", function()
-if(AutoRepair==true and CanMerchantRepair()) then
+if(AutoRepair==true and CanMerchantRepair()) then 
 local cost = GetRepairAllCost()
 if cost > 0 then
 local money = GetMoney()
@@ -82,3 +91,4 @@ end
 local AchScreen = CreateFrame("Frame")
 AchScreen:RegisterEvent("ACHIEVEMENT_EARNED")
 AchScreen:SetScript("OnEvent", OnEvent)
+

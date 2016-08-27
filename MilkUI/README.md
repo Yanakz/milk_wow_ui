@@ -5,13 +5,8 @@ A list of the addons are listed below.
 本插件集合了一些实用的小功能用来增强暴雪默认界面.
 
 ****
-<<<<<<< HEAD
 ###　　　　Author:Yanakz
 ###　　　　E-mail:hrliang1988@gmail.com
-=======
-###　　　　　　　　　　　　Author:Yanakz
-###　　　　　　　　　   E-mail:hrliang1988@gmail.com
->>>>>>> bf4775dad8a218c73845319b60f69842b5d468f8
 
 ===========================
 
@@ -21,7 +16,6 @@ http://bbs.ngacn.cc/read.php?tid=7678853&_ff=200&_fp=4
 
 
 
-<<<<<<< HEAD
 ##功能目录
 
 1.  MilkUI_dailytool.lua 
@@ -80,11 +74,6 @@ updated at 24-07-2016
 3. 添加人物属性列表
 4. 移除部分没用的功能
 
-=======
-##Change Log更新日志
-
------------
->>>>>>> bf4775dad8a218c73845319b60f69842b5d468f8
 
 ##MilkUI version 2.1
 updated at 24-07-2016

@@ -1,4 +1,4 @@
-﻿msg = "已载入, 版本 2.1, 更新于 24-07-2016. 星哥SB"
+﻿msg = "狗逼星哥已载入, 版本 2.3, 更新于 27-08-2016."
 
 DEFAULT_CHAT_FRAME:AddMessage("|cffffff78MilkUI:|r "..msg, r or 0.5, g or 0.75, b or 1)
 
@@ -12,7 +12,7 @@ local F = CreateFrame("Frame")
    F:RegisterEvent("PLAYER_REGEN_ENABLED")
    F:SetScript("OnEvent", function() _G.collectgarbage("collect") end)
 --屏蔽错误红字
-UIErrorsFrame:SetAlpha(0)
+-- UIErrorsFrame:SetAlpha(0)
 
 --显示大地图坐标
 WorldMapButton:HookScript("OnUpdate", function(self)
