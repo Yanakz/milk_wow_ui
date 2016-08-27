@@ -5,13 +5,10 @@ A list of the addons are listed below.
 本插件集合了一些实用的小功能用来增强暴雪默认界面.
 
 ****
-<<<<<<< HEAD
+
 ###　　　　Author:Yanakz
 ###　　　　E-mail:hrliang1988@gmail.com
-=======
-###　　　　　　　　　　　　Author:Yanakz
-###　　　　　　　　　   E-mail:hrliang1988@gmail.com
->>>>>>> bf4775dad8a218c73845319b60f69842b5d468f8
+
 
 ===========================
 
