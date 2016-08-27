@@ -24,36 +24,36 @@ http://bbs.ngacn.cc/read.php?tid=7678853&_ff=200&_fp=4
 <<<<<<< HEAD
 ##功能目录
 
-1.  MilkUI_dailytool.lua 
-- 自动售卖破烂
-- 自动修理
-- 成就截图
+1.  MilkUI_dailytool.lua  
+自动售卖破烂
+自动修理
+成就截图
 
 2. MilkUI_enhance.lua
-- 聊天框显示拾取图标
-- 副本任务栏自动收起
+聊天框显示拾取图标
+副本任务栏自动收起
 
 3. MilkUI_interface.lua
-- reload命令简化
-- 脱战回收内存
-- 显示大地图坐标
-- 右上角小地图显示当前坐标
-- 法术ID及释放者、物品ID
+reload命令简化
+脱战回收内存
+显示大地图坐标
+右上角小地图显示当前坐标
+法术ID及释放者、物品ID
 
 4. MilkUI_invite.lua
-- 右键菜单邀请公会
+右键菜单邀请公会
 
 5. MilkUI_move.lua
-- 移动任务栏 （测试中）
+移动任务栏 （测试中）
 
 6. MilkUI_status.lua
-- 状态栏显示更多属性
+状态栏显示更多属性
 
 7. tooltipenhancement.lua
-- 鼠标指向信息
+鼠标指向信息
 
 8. MilkUI_tooltipicon.lua
-- 物品tooltip图标
+物品tooltip图标
 
 
 
