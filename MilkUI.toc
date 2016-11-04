@@ -1,6 +1,6 @@
 ## Interface: 70100
 ## Title: MilkUI
-## version: 2.3
+## version: 2.4
 ## Author: ÄÔ²ĞÅ£@åÈÂêÀ¼
 ## Notes:  Useful Toolbox.
 ## SavedVariables: MilkUI
