@@ -61,12 +61,15 @@ http://bbs.ngacn.cc/read.php?tid=7678853&_ff=200&_fp=4
 
 
 ##Change Log更新日志
+
+
+-----------
+##MilkUI version 2.4
 27-10-2016
 
 1. 更新支持7.1
 2. 删除副本内坐标现实避免错误
 
------------
 ##MilkUI version 2.3
 updated at 28-07-2016
 
